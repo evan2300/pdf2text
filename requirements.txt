@@ -1,0 +1,15 @@
+fonttools
+pillow
+freetype-py
+paddleocr
+pymupdf
+paddlepaddle
+pdfreader
+interval
+pdfminer.six
+pypdf2
+wand
+fastapi
+uvicorn
+pydantic
+python-multipart

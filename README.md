@@ -10,3 +10,15 @@ features:
 改进计划：
 * 提高文字识别效率
 * 实现文本的自动纠错
+
+使用：
+* 安装环境
+  pip install -r requirements.txt
+
+* 两种使用方式
+*  api使用
+	python app.py
+
+*  代码使用
+   pdf = SmartPdf(pdf_filename)
+   text = pdf.extract_text()
